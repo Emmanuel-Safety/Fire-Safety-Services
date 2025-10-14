@@ -1,4 +1,8 @@
+# robots.txt for Emmanuel Fire & Safety Services
+# This file allows all search engines to crawl and index your entire site.
+
 User-agent: *
 Allow: /
 
+# Sitemap helps search engines discover all pages of your site
 Sitemap: https://emmanuel-safety.github.io/Fire-Safety-Services/sitemap.xml
